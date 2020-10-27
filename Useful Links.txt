@@ -1,0 +1,2 @@
+Stochastic Gradient Descent: https://www.youtube.com/watch?v=vMh0zPT0tLI
+Gradient Descent: https://www.youtube.com/watch?v=sDv4f4s2SB8

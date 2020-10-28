@@ -6,7 +6,7 @@ https://www.kaggle.com/hellbuoy/car-price-prediction
 
 
 ### About project Mechanic of Machine Learning:
-I am a mechanical engineer by educaion. Now, I want to deep dive in the world of Machine Learning, hence the name, mechanic of ML :D. I have taken up this project to understand the in-depth mathematics involved in regularly used ML algorithms. Under this project, I will be sharing useful material and links as I explore this domain.The objective is to learn and spread the same. Stay tuned to my git for updates!
+I am a mechanical engineer by educaion. Now, I want to deep dive in the world of Machine Learning, hence the name, mechanic of ML :D. I have taken up this project to understand the in-depth mathematics involved in regularly used ML algorithms. Under this project, I will be sharing useful material and links as I explore this domain.The objective is to learn and spread the same. Stay tuned to my github for updates!
 
 ### Business Case: 
 A top manufacturer of automobiles has realized the need to provide real time cost estimates to consumers when configuring their car through their website. Build an ML based model to facilitate this requirement

@@ -21,4 +21,4 @@ A top manufacturer of automobiles has realized the need to provide real time cos
 * Linear Regression and Gradient Descent: https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2
 * Stochastic Gradient Descent: https://www.youtube.com/watch?v=vMh0zPT0tLI
 * Gradient Descent: https://www.youtube.com/watch?v=sDv4f4s2SB8
-* Notes and source code: 
+* Notes and source code: https://github.com/ArindamRoy23/Car_Price_Prediction_Linear_Regression_Mechanic-of-ML.git

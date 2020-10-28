@@ -4,8 +4,6 @@
 ###### Welcome to this repository! The objective of this repository is to best unserstand linear regression. The data used in this repo has been taken from Kaggle (link below). 
 https://www.kaggle.com/hellbuoy/car-price-prediction
 
-## Prologue
-
 
 ### About project Mechanic of Machine Learning:
 I am a mechanical engineer by educaion. Now, I want to deep dive in the world of Machine Learning, hence the name, mechanic of ML :D. I have taken up this project to understand the in-depth mathematics involved in regularly used ML algorithms. Under this project, I will be sharing useful material and links as I explore this domain.The objective is to learn and spread the same. Stay tuned to my git for updates!
